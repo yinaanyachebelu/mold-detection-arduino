@@ -12,7 +12,7 @@ To test out the device, you will need the an Arduino Nano 33 BLE Sense with an O
 
 ### Resources that can be found in this repository:
 
-Dataset Folder: Includes the training dataset created from photos manually taken with the Arduino device and split into two folders (mold and no_mold)
+datasets: Folder includes the training dataset created from photos manually taken with the Arduino device and split into two folders (mold and no_mold)
 
 model_training.py : Python script used to train the model. Note that this script was developed by [Edge Impulse](https://www.edgeimpulse.com) and slightly edited to change specific parameters to improve performance.
 
